@@ -1,0 +1,51 @@
+{
+  "career":{
+"info": "Seeking challenging career in [your profession] Sector to get a position of responsibility, using my professional skills and efficiency to communicate my ideas and views and commit myself for achieving organizational objectives with the team effort and my positive attitude and performance"
+},
+  "education":[
+    {
+      "degree":"B-tech (CSE)",
+      "institute":"siddharth college of engineering",
+      "data":["2015-19","71%"]
+    },
+  {
+    "degree":"intermediate",
+    "institute":"narayana junior college",
+    "data":["2013-2015","93.5%"]
+  },
+  {
+  "degree":"SSC",
+  "institute":"vignana jyothi high school",
+  "data":["2015-19","92%"]
+}
+],
+"skills":[
+  {
+    "title":"programming languages",
+    "set":["Java","C","python","C++"]
+  },
+  {
+    "title":"web technologies",
+    "set":["HTML","CSS","PHP","JavaScript"]
+   },
+  {
+    "title":"data bases",
+    "set":["Sql","Mysql","Oracle","Nosql"]
+  },
+  {
+    "title":"Operating Systems",
+    "set":["Mac","Dos","windows","Linux"]
+  }
+],
+"achievements":[
+  {
+    "achievedData":"got first  prize in ppt presentation."
+  },
+  {
+      "achievedData":"got first prize in Techinical quiz."
+    },
+    {
+        "achievedData":"got first prize in running race."
+      }
+    ]
+}

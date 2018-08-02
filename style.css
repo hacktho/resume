@@ -1,4 +1,7 @@
-.parent{
+tr:nth-child(odd){
+  background: #ddd;
+  }
+  .parent{
   display: flex;
   flex-direction: row;
   justify-content: center;
